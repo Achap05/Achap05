@@ -2,7 +2,6 @@
 ### 
 <p>
     <a href='https://www.linkedin.com/in/arthur-de-dominicis-3b2a322a0/'> <img src='https://img.shields.io/badge/linkedin-blue'/></a> 
-    <a href='https://github.com/Achap05'><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/></a> 
 </p>
 <p>
     <img src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white'/>
