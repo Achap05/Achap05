@@ -20,14 +20,10 @@
     <img src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white'/>
     <img src='https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white'/>
     <img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'/>
-    <img src=''/>
 
 
 
 <h3>Contacts</h3>
     <a href='https://www.linkedin.com/in/arthur-de-dominicis-3b2a322a0/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a> 
     <a href='mailto:chapon.art@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
-    <img src=''/>
-    <img src=''/>
-    <img src=''/>
-    <img src=''/>
+    
