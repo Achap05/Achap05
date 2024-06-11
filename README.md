@@ -12,6 +12,5 @@
     <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/>
 </p>
 
-[![Achap05 GitHub stats](https://github-readme-stats.vercel.app/api?username=Achap05)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achap05)](https://github.com/anuraghazra/github-readme-stats)
 
